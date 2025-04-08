@@ -8,3 +8,4 @@ I plan on giving a class explaining the baseline software.
 it's based on open source code, no claim to any originality.
 I'm impressed with the Arduino DUE Arm system. 
 it's just downright fun.
+4-7-25 Remoded zener diode and added a DC bias for sensitivity trim. Test jig is running now.
